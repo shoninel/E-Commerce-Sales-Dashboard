@@ -13,8 +13,7 @@ Client wants to create a sales report for last years, so that they can understan
 - Find out the category wise sales and % of sales for each category
 - Top 5 selling product subcategory
 - Find out the state wise sales and its distribution.
-- Interactive Dashboard:
-- <a href=’’https://github.com/shoninel/E-Commerce-Sales-Dashboard/blob/main/E-commerce%20Dashboard.png’’ > Dashboard </a>
+- Interactive Dashboard:<a href="https://github.com/shoninel/E-Commerce-Sales-Dashboard/blob/main/E-commerce%20Dashboard.png" >  </a>
 
 
 
