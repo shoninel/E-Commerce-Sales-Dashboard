@@ -24,6 +24,12 @@ Merge all pivot tables into one dashboard and applied slicers to make dynamic
 ## Dashboard
 ![E-commerce Dashboard](https://github.com/user-attachments/assets/7318e650-bd50-4a54-8a69-a46af8679753)
 
+## Analysis Outcome:
+Sales and profit analysis provide the insights in growth in every year.
+The sales distribution%- small variation for each category 
+Office supplies is more likely to be top profit generating product category then technology
+
+
 
 
 
