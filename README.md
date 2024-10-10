@@ -1,2 +1,4 @@
-# E-Commerce-Sales-Dashboard
-I developed a comprehensive project in excel, creating a dashboard using multiple chats and pivot tables to analyze the data. This process involved several stages including data preprocessing, data cleaning and visualization
+# # E-Commerce Data Analysis (interactive Dashboard creation- using MS Excel)
+## Project Objective
+Client wants to create a sales report for last years, so that they can understand their customers and plan strategies for their business growth
+
