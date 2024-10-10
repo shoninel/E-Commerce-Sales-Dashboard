@@ -15,5 +15,15 @@ Client wants to create a sales report for last years, so that they can understan
 - Find out the state wise sales and its distribution.
 - Interactive Dashboard:<a href="https://github.com/shoninel/E-Commerce-Sales-Dashboard/blob/main/E-commerce%20Dashboard.png" >Dashboard </a>
 
+## Process
+Verified data for any missing values and anomalies, and handled the missing values
+Ensured that data is consistent and clean with respect to data type data format and values used
+Created pivot tables according to the objective
+Merge all pivot tables into one dashboard and applied slicers to make dynamic
+
+## Dashboard
+![E-commerce Dashboard](https://github.com/user-attachments/assets/7318e650-bd50-4a54-8a69-a46af8679753)
+
+
 
 
