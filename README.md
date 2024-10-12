@@ -29,7 +29,7 @@ Sales and profit analysis provide the insights in growth in every year.
 The sales distribution%- small variation for each category 
 Office supplies is more likely to be top profit generating product category then technology
 
-[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b7ef5fbe-f9e5-46cf-8e6b-08ef70c7cf13" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/b7ef5fbe-f9e5-46cf-8e6b-08ef70c7cf13/public_url)
+
 
 
 
